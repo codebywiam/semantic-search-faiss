@@ -1,6 +1,6 @@
 # Semantic Search Engine with USE & FAISS
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebywiam/blob/master/semantic_search_use_faiss.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codebywiam/semantic-search-faiss/blob/master/semantic_search_use_faiss.ipynb)
 
 A powerful semantic search engine that leverages Google's Universal Sentence Encoder (USE) for generating meaningful text embeddings and Facebook's FAISS library for blazingly fast similarity search. This project demonstrates how to go beyond keyword matching to find documents based on their contextual meaning.
 
